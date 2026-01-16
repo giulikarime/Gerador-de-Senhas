@@ -3,7 +3,7 @@ from tkinter import ttk
 import random, string
 
 win = tk.Tk()
-win.title("Interface")
+win.title("Gerador de Senhas")
 win.geometry("340x300")
 win.configure(bg="#8BA7A1")
 
